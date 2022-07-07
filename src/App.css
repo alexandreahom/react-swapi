@@ -12,6 +12,13 @@
   color: white;
 }
 
+.button {
+  color: rgb(123, 161, 243);
+  background-color: black;
+  padding: 8px;
+  border-radius: 50px;
+}
+
 .icon-container {
   display: flex;
   flex-direction: row;
@@ -20,6 +27,10 @@
   margin: auto;
   justify-content: center;
   padding: 50px;
+}
+
+.details-page {
+  text-align: center;
 }
 
 .class-div {
